@@ -1,5 +1,3 @@
 # h3llo
 
-## new page
-
-### be started
+## this is my new page
